@@ -1,2 +1,27 @@
-node_modules/
+# WordPress
+wp-content/
+wp-config.php
+.htaccess
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+.pub/
+.dart_tool/
+.idea/
+*.iml
+
+# Docker
+docker-compose.override.yml
+
+# Environment files
 .env
+.env.local
+.env.*.local
+
+# System Files
+.DS_Store
+Thumbs.db
